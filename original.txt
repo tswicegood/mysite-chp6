@@ -1,3 +1,6 @@
 This is the first line.
 This happens to be the second line.
 And this, it is the third and final line.
+This is the first line.
+This happens to be the second line.
+And this, it is the third and final line.
